@@ -1,6 +1,6 @@
 # awesome-tools
 
-### draw
+### Draw
 - https://excalidraw.com/ ``draw what you want``
 - https://app.diagrams.net/ ``diagram``
 
@@ -26,7 +26,7 @@
 - https://www.figma.com/ `design what you want (landing, web app, mobile...)`
 
 
-### code
+### Code
 - https://perf.link/ `test perf javascript`
 
 
