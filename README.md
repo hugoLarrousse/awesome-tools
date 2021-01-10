@@ -23,7 +23,9 @@
 ### Design
 - https://app.brandmark.io/v2/ ``Make your logo in a minute``
 - https://dribbble.com/ ``design inspiration``
+- https://behance.net ``design inspiration``
 - https://www.figma.com/ `design what you want (landing, web app, mobile...)`
+- https://coolors.co/ `create your colors palette`
 
 
 ### Code
