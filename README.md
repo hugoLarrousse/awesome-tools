@@ -1,14 +1,15 @@
 # awesome-tools
 
 ### Draw
-- https://excalidraw.com/ ``draw what you want``
-- https://app.diagrams.net/ ``diagram``
+- https://excalidraw.com/ `draw what you want`
+- https://app.diagrams.net/ `diagram`
 
 
 ### Images
-- https://www.remove.bg/upload ``remove background image``
-- https://squoosh.app/ ``compress``
-- https://bgjar.com/ ``svg background generator``
+- https://www.remove.bg/upload `remove background image`
+- https://squoosh.app/ `compress`
+- https://bgjar.com/ `svg background generator`
+- https://www.photopea.com/ `photoshop like, online`
 
 
 ### Internet
@@ -16,7 +17,7 @@
 
 
 ### From code to production
-- https://www.netlify.com/ ``Build & Deploy``
+- https://www.netlify.com/ `Build & Deploy`
 - https://render.com/ `cloud for server/static site/db ...`
 
 
@@ -30,6 +31,17 @@
 
 ### Code
 - https://perf.link/ `test perf javascript`
+- https://repl.it `write codes in any languages direct online`
+- https://carbon.now.sh/ `share beautiful images of your source code`
+
+### Others
+- https://crontab.guru/ `create your cron schedule`
+
+### Time 
+- https://everytimezone.com/ `check timezone`
+
+### API
+- https://hoppscotch.io/ `like postman but online`
 
 
 
