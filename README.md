@@ -10,6 +10,7 @@
 - https://squoosh.app/ `compress`
 - https://bgjar.com/ `svg background generator`
 - https://www.photopea.com/ `photoshop like, online`
+- https://lottiefiles.com/ `create embedded animation!`
 
 
 ### Internet
