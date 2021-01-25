@@ -11,6 +11,7 @@
 - https://bgjar.com/ `svg background generator`
 - https://www.photopea.com/ `photoshop like, online`
 - https://lottiefiles.com/ `create embedded animation!`
+- https://ojoy.netlify.app/ `to enlarge low resolution photo + improve quality`
 
 
 ### Internet
