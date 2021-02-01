@@ -39,6 +39,7 @@
 ### Others
 - https://crontab.guru/ `create your cron schedule`
 - https://calendly.com/ `online appointment`
+- https://stackshare.io/ `check stack every companies`
 
 ### Time 
 - https://everytimezone.com/ `check timezone`
